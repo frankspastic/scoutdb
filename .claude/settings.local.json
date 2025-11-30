@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(php:*)",
+      "Bash(composer:*)",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)"
     ],
     "deny": [],
     "ask": []
